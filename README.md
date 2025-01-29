@@ -38,7 +38,7 @@
 
 ## 4.웹 사이트와 연동
 
-1. [Gaianet 웹사이트(레퍼럴 포함)](https://www.gaianet.ai/gaia-domain-name?referralCode=RnpSn8) or [Gaianet 웹사이트(레퍼럴 비포함)](https://www.gaianet.ai/gaia-domain-name)에 접속한 후 Node 탭으로 이동
+1. [Gaianet 웹사이트(레퍼럴 포함)](https://www.gaianet.ai/gaia-domain-name?referralCode=RnpSn8) or [Gaianet 웹사이트(레퍼럴 미포함)](https://www.gaianet.ai/gaia-domain-name)에 접속한 후 Node 탭으로 이동
    ![image](https://github.com/user-attachments/assets/a8828611-58a5-4214-abd4-6ba66a875bd8)
 2. Connect New Node를 클릭해 Node에 표시된 Node ID와 Device ID를 입력한다.
    ![image](https://github.com/user-attachments/assets/7d98f993-c217-4cdf-9997-4b5edd639e08)
