@@ -28,13 +28,22 @@
 
 ## 3. 사용 방법
 
-1. **스크립트 다운로드**  
+## [Linux]
+1. **스크립트 다운로드 및 실행**  
    ```bash
    wget https://raw.githubusercontent.com/kooroot/Node_Executor-Gaianet/refs/heads/main/gaianet.sh
    chmod +x gaianet.sh
    ./gaianet.sh
    ```
-
+   
+## [MacOS]
+1. **스크립트 다운로드 및 실행**  
+   ```bash
+   wget https://raw.githubusercontent.com/kooroot/Node_Executor-Gaianet/refs/heads/main/gaianet_mac.sh
+   chmod +x gaianet_mac.sh
+   ./gaianet_mac.sh
+   ```
+---
 
 ## 4.웹 사이트와 연동
 
