@@ -94,7 +94,7 @@ screen -dmS "$SCREEN_NAME" bash -c "
   echo '아래의 Node ID와 Device ID를 이용해 반드시 지갑과 연동하세요.';
   gaianet info;
   echo '-----------------------------';
-  exec bash
+  exec zsh
 "
 
 # 잠시 대기 후 세션 접속
