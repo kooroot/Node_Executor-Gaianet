@@ -8,7 +8,7 @@ echo "=== [1] 시스템 패키지 업데이트 & 필수 패키지 설치 ==="
 sudo apt-get update -y
 sudo apt-get upgrade -y
 # 필요하다면 curl, wget 등 추가
-sudo apt-get install -y curl wget
+sudo apt-get install -y curl wget screen
 
 ##############################################
 # 2. Gaianet 설치 여부 확인 & 설치
